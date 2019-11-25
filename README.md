@@ -2,7 +2,6 @@
 Sends Message to specified Logstash.
 
 # Usage
-Set up to log via TCP
 
 ```console
 foo@bar:~$ dotnet elkTester.dll localhost 5001
